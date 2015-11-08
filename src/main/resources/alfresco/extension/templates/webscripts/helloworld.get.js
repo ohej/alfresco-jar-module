@@ -1,1 +1,1 @@
-model["fromJS"] = "Hello World from JS! WOHO Ja?? Oh yeah!";
+model["fromJS"] = "Hello World from JS!";
